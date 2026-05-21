@@ -10,7 +10,7 @@ from __future__ import annotations
 
 KILDETROSKAP = """\
 ### Kildetroskap
-- Bygg kun på informasjon som finnes i materialet (kildemateriale og/eller utkast).
+- Bygg kun på informasjon som finnes i materialet.
 - ALDRI tilfør fakta, tall, navn, sitater eller påstander fra ekstern kunnskap.
 - Direkte sitater skal alltid gjengis NØYAKTIG slik de står i materialet. HELT ORDRETT."""
 
