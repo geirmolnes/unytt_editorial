@@ -28,6 +28,11 @@ proofread).
 
 `KILDETROSKAP` · `SITAT_FORMAT` · `ANFORSELSTEGN` · `BALANSE` · `MOTSTRIDENDE` · `SPRAK`
 
+The rule prose lives in `unytt_editorial/constitution.md` — edit the text
+there, not in `__init__.py`. Each block is delimited by an HTML-comment marker
+(`<!-- KILDETROSKAP -->`) that maps it to the matching `ed.<NAME>` constant;
+keep the markers and their names. The module just parses and assembles it.
+
 ## Tests
 
 ```bash
