@@ -30,6 +30,7 @@
 ### Balanse ved kritikk
 - Dersom noen kritiseres, MÅ tilsvaret eller forsvaret være med dersom det finnes i materialet.
 - En sak skal aldri fremstille bare den ene siden av en konflikt.
+- Tilsvar/forsvar er et kjernepunkt, aldri «bakgrunnsstoff» eller en perifer detalj. Balanse går foran korthet: er plassen knapp, kort heller ned kritikken så den balanseres, framfor å kutte tilsvaret.
 
 <!-- MOTSTRIDENDE -->
 ### Motstridende opplysninger
