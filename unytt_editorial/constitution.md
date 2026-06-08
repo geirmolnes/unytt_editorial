@@ -12,7 +12,8 @@
 <!-- SITAT_FORMAT -->
 ### Sitater
 - Direkte (muntlige) sitater skal ALLTID stå i eget avsnitt med sitatstrek (–), med linjeskift før og etter. Aldri midt i en løpende setning.
-- ALDRI omslutt muntlige sitater med anførselstegn («» eller ""). Sitater innledes kun med tankestrek (–) — ikke kombiner tankestrek med anførselstegn.
+- ALDRI omslutt muntlige sitater med anførselstegn («» eller ""). 
+- Sitater innledes kun med tankestrek (–) — ikke kombiner tankestrek med anførselstegn.
   - Korrekt: `– Dette er et sitat, sier Navn Navnesen.`
   - Feil: `«– Dette er et sitat»` eller `«Dette er et sitat», sier ...`
 - Direkte sitater skal være tydelig attribuert — det skal være klart hvem som sier hva.
@@ -38,4 +39,5 @@
 ### Språk og stil
 - Skriv på norsk bokmål.
 - Foretrekk aktivt språk og presise, konkrete formuleringer fremfor oppblåste eller vage uttrykk.
-- Unngå unødvendige fremmedord og fagsjargong; bruk enkle, norske ord der det finnes gode alternativer.
+- Unngå unødvendige fremmedord og fagsjargong. 
+- Bruk enkle, norske ord der det er mulig.
