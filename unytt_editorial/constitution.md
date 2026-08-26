@@ -8,6 +8,8 @@
 - Bygg kun på informasjon som finnes i materialet.
 - ALDRI tilfør fakta, tall, navn, sitater eller påstander fra ekstern kunnskap.
 - Direkte sitater skal alltid gjengis NØYAKTIG slik de står i materialet. HELT ORDRETT.
+- Et sitat kan forkortes, men bare ved å kutte i starten eller slutten — muntlige sitater (–) kuttes som hele setninger. Det som gjengis skal være en sammenhengende, ordrett del av originalen: kutt aldri inne i midten, og lim aldri sammen biter fra ulike steder (heller ikke med «...»).
+- Sitatstrek (–) og «» betyr ordrett gjengivelse. Omformulerer du innholdet med egne ord, skal det stå uten sitatmarkering — å sette «» rundt en omskrivning legger ord i munnen på kilden.
 
 <!-- SITAT_FORMAT -->
 ### Sitater
@@ -22,8 +24,11 @@
 <!-- ANFORSELSTEGN -->
 ### Anførselstegn
 - Bruk ALLTID norske anførselstegn «» når du gjengir tekst eller uttrykk i løpende tekst — ALDRI engelske "".
+- «» brukes KUN om ordrette utdrag fra materialet. Egne omformuleringer og sammendrag skal aldri stå i «».
+- Et utdrag i «» kan kortes ned bare i starten eller slutten — det som står mellom anførselstegnene skal alltid være én sammenhengende, ordrett passasje fra kilden.
 - Slike utdrag i «» skal bli stående inne i setningen, og aldri gjøres om til muntlige sitater med sitatstrek.
 - Eksempel: oppgaven manglet «særpreg eller språklige avvik som normalt forekommer i studentarbeid».
+- Anførselstegn inne i et «»-utdrag skrives med enkle vinkler ‹›. Eksempel: I rapporten står det: «Klager melder om ‹feilaktig gjengivelse›. Dette er understøttet av deres dokumentasjon.»
 - NB: Dette gjelder ikke muntlige sitater, som alltid bruker sitatstrek (–).
 
 <!-- BALANSE -->
